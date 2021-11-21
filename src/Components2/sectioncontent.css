@@ -1,0 +1,15 @@
+.background{
+    width: 100%;
+    height: 950px;
+
+}
+button{
+    position: absolute;
+}
+div{
+    position: relative;
+}
+.Photo{
+    position:absolute;
+    margin-right: 100px;
+}
